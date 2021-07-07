@@ -37,7 +37,9 @@
       right: 20px; }
   .content .cont_ins h2 {
     font-size: 40px;
-    margin-top: 50px; } }
+    margin-top: 50px; }
+  .content {
+    min-height: calc(100vh - 134px); } }
 
 @media (max-width: 420px) {
   .title {
@@ -46,4 +48,6 @@
   .title h1 {
     font-size: 55px;
     max-width: 350px;
-    margin: auto; } }
+    margin: auto; }
+  .content {
+    min-height: calc(100vh - 218px); } }
