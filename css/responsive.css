@@ -39,7 +39,7 @@
     font-size: 40px;
     margin-top: 50px; }
   .content {
-    min-height: calc(100vh - 134px); } }
+    top: 134px; } }
 
 @media (max-width: 420px) {
   .title {
@@ -50,4 +50,4 @@
     max-width: 350px;
     margin: auto; }
   .content {
-    min-height: calc(100vh - 218px); } }
+    top: 218px; } }
