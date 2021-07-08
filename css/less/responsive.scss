@@ -56,8 +56,14 @@
 	.content{
 		top: 134px;
 	}
+	.content_ac_pl .slider .placefor h2{
+		font-size: 40px;
+	}
 }
 @media(max-width: 420px){
+	.content_ac_pl .slider .desc p{
+		font-size: 15px;
+	}
 	.title{
 		padding-left: 25px;
 		padding-right: 25px;
