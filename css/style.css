@@ -219,7 +219,8 @@ img {
         position: relative;
         margin-bottom: 10px;
         text-align: center;
-        line-height: 24px; }
+        line-height: 24px;
+        color: #000; }
         .content_ac_pl .slider .desc p span {
           position: absolute;
           left: 0; }
